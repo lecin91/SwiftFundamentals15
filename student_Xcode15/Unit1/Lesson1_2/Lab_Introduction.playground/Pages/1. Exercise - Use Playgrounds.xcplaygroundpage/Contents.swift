@@ -10,14 +10,14 @@ print("How to use playgrounds to make writing Swift fun and simple")
 /*:
  Now print your own phrases to the console. Pick one of your favorite songs. Use your knowledge of the `print` function to display the song title and artist.
  */
-
+print("The Only Exception (song title) by Paramore (artist")
 
 /*:
  Use multiple `print` functions to write out some of the lyrics to the song.
  */
-
-
-
+print("Because none of it was ever worth the risk")
+print ("You are the only exception")
+print("You are the only exception")
 /*:
 
  _Copyright © 2023 Apple Inc._
